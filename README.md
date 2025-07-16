@@ -8,7 +8,7 @@ IR remote control in Arduino with M5StickC PLUS ESP32-PICO Mini
 
 <img src="https://github.com/enricocid/IR-blaster-M5StickC-PLUS-ESP32/blob/main/m5.png" width=20% height=20%>
 
-2. Ky-005 IR infrared transmitter transceiver module
+2. [Ky-005](https://www.az-delivery.de/en/products/ir-sende-modul) IR infrared transmitter transceiver module
 <img src="https://www.az-delivery.de/cdn/shop/products/ky-005-ir-infrarot-sender-transceiver-modul-906607.jpg" width=20% height=20%>
 
 
