@@ -15,7 +15,7 @@ IR remote control in Arduino with M5StickC PLUS ESP32-PICO Mini
 3. Arduino IDE
    - [Download it here](https://www.arduino.cc/en/software/)
    - Follow the official setup guide: [Arduino setup for M5StickC Plus](https://docs.m5stack.com/en/arduino/m5stickc_plus/program)
-   - Make sure to install **IRremoteESP8266** (⚠️downgrade to 2.8.6)
+   - Make sure to install **IRremoteESP8266**
 
 
 ```
